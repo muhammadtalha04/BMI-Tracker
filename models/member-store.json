@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "name": "Test",
+      "gender": "M",
+      "email": "test",
+      "password": "123",
+      "address": "ABC",
+      "height": "1.6764",
+      "startingweight": "60",
+      "id": "848bea67-5e9e-41be-be64-c251f59f5ccf",
+      "assessments": [
+        {
+          "id": "d1633950-3a2e-4a1c-92df-baaef416768c",
+          "weight": "50",
+          "chest": "150",
+          "thigh": "150",
+          "upperarm": "150",
+          "waist": "150",
+          "hips": "150",
+          "memberid": "848bea67-5e9e-41be-be64-c251f59f5ccf",
+          "date": "8/27/2019",
+          "comment": "abc",
+          "trend": true
+        }
+      ]
+    },
+    {
+      "name": "Talha",
+      "gender": "Male",
+      "email": "talha@test.com",
+      "password": "Talha1@",
+      "address": "XYZ",
+      "height": "14.478",
+      "startingweight": "50",
+      "id": "43142f0d-e8e4-45d0-a9d2-9929094b5951"
+    }
+  ]
+}

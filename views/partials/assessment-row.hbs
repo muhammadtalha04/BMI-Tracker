@@ -1,0 +1,17 @@
+<tr>
+  <td> {{assessment.date}} </td>
+  <td> {{assessment.weight}} </td>
+  <td> {{assessment.chest}} </td>
+  <td> {{assessment.thigh}} </td>
+  <td> {{assessment.upperarm}} </td>
+  <td> {{assessment.waist}} </td>
+  <td> {{assessment.hips}}  </td>
+  <td>
+    {{#if assessment.trend }}
+      <a class="ui teal tag label"></a>
+    {{else }}
+      <a class="ui red tag label"></a>
+    {{/if}}
+  </td>
+  <td> {{assessment.comment}} </td>
+</tr>

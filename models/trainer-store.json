@@ -1,0 +1,14 @@
+{
+    "trainers": [
+        {
+            "name": "Trainer",
+            "gender": "M",
+            "email": "trainer",
+            "password": "123",
+            "address": "XYZ",
+            "height": "1.6764",
+            "startingweight": "50",
+            "id": "8fdb2827-e87f-489e-a46c-64286671f3ac"
+        }
+    ]
+}

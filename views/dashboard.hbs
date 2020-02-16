@@ -1,0 +1,9 @@
+{{> menu id="dashboard"}}
+
+<section class="ui segment">
+  {{> analytics member=member memberStats=memberStats}}
+  {{> goal member=member goal=goal status=status}}
+  {{> addassessment }}
+  {{> assessment-table assessments=assessments member=member}}
+</section>
+
